@@ -87,10 +87,10 @@ public class Main {
 	 */
 	public static final ClientInfo[] clients = {
 		new ClientInfo("Niki Collier", ClientInfo.FEMALE, 49, 1.5494, 80, false, false),
-		// new ClientInfo("Old Geeza", ClientInfo.MALE, 65, 0, 2, "ABC123/4"),
-		// new ClientInfo("Hannah Montana", ClientInfo.FEMALE, 16, 10, 0, "HMA304/9"),
-		// new ClientInfo("Rem Collier", ClientInfo.MALE, 44, 5, 3, "COL123/3"),
-		// new ClientInfo("Jim Quinn", ClientInfo.MALE, 55, 4, 7, "QUN987/4"),
+		new ClientInfo("Old Geeza", ClientInfo.MALE, 65, 1.6, 100, true, true),
+		new ClientInfo("Hannah Montana", ClientInfo.FEMALE, 21, 1.78, 65, false, false),
+		new ClientInfo("Rem Collier", ClientInfo.MALE, 49, 1.8, 120, false, true),
+		new ClientInfo("Jim Quinn", ClientInfo.MALE, 55, 1.9, 75, true, false),
 		new ClientInfo("Donald Duck", ClientInfo.MALE, 35, 0.45, 1.6, false, false)
 	};
 }
