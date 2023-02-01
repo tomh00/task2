@@ -15,9 +15,9 @@ import service.registry.ServiceRegistry;
 public class Main {
 	static {
 		// Create the services and bind them to the registry.
-		ServiceRegistry.bind(Constants.GIRL_POWER_SERVICE, new GAQService());
+		ServiceRegistry.bind(Constants.GIRLS_ALLOWED_SERVICE, new GAQService());
 		ServiceRegistry.bind(Constants.AULD_FELLAS_SERVICE, new AFQService());
-		ServiceRegistry.bind(Constants.DODGY_DRIVERS_SERVICE, new DGQService());
+		ServiceRegistry.bind(Constants.DODGY_GEEZERS_SERVICE, new DGQService());
 		ServiceRegistry.bind(Constants.BROKER_SERVICE, new LocalBrokerService());
 	}
 	
