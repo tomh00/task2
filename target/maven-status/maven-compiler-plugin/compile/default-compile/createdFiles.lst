@@ -1,0 +1,13 @@
+service\dodgygeezers\DGQService.class
+service\core\AbstractQuotationService.class
+service\core\Quotation.class
+service\auldfellas\AFQService.class
+service\broker\LocalBrokerService.class
+service\core\ClientInfo.class
+service\registry\ServiceRegistry.class
+service\registry\Service.class
+service\core\QuotationService.class
+service\girlsallowed\GAQService.class
+client\Main.class
+service\core\Constants.class
+service\core\BrokerService.class

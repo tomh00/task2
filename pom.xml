@@ -1,8 +1,18 @@
 <project>
     <modelVersion>4.0.0</modelVersion>
     <groupId>ie.ucd</groupId>
-    <artifactId>lifeco</artifactId>
+    <artifactId>task1</artifactId>
     <version>1.0</version>
+    <packaging>pom</packaging>
+
+    <modules>
+        <module>auldfellas</module>
+        <module>dodgygeezers</module>
+        <module>girlsallowed</module>
+        <module>core</module>
+        <module>broker</module>
+        <module>client</module>
+    </modules>
 
     <properties>
         <main.class>client.Main</main.class>

@@ -1,13 +1,13 @@
-/Users/remcollier/Git/gitlab/ucd-cs-rem/distributed-systems/lifeco-basic/src/main/java/service/core/AbstractQuotationService.java
-/Users/remcollier/Git/gitlab/ucd-cs-rem/distributed-systems/lifeco-basic/src/main/java/service/auldfellas/AFQService.java
-/Users/remcollier/Git/gitlab/ucd-cs-rem/distributed-systems/lifeco-basic/src/main/java/service/core/Quotation.java
-/Users/remcollier/Git/gitlab/ucd-cs-rem/distributed-systems/lifeco-basic/src/main/java/service/core/Constants.java
-/Users/remcollier/Git/gitlab/ucd-cs-rem/distributed-systems/lifeco-basic/src/main/java/service/core/QuotationService.java
-/Users/remcollier/Git/gitlab/ucd-cs-rem/distributed-systems/lifeco-basic/src/main/java/service/broker/LocalBrokerService.java
-/Users/remcollier/Git/gitlab/ucd-cs-rem/distributed-systems/lifeco-basic/src/main/java/service/girlsallowed/GAQService.java
-/Users/remcollier/Git/gitlab/ucd-cs-rem/distributed-systems/lifeco-basic/src/main/java/service/registry/Service.java
-/Users/remcollier/Git/gitlab/ucd-cs-rem/distributed-systems/lifeco-basic/src/main/java/service/dodgygeezers/DGQService.java
-/Users/remcollier/Git/gitlab/ucd-cs-rem/distributed-systems/lifeco-basic/src/main/java/client/Main.java
-/Users/remcollier/Git/gitlab/ucd-cs-rem/distributed-systems/lifeco-basic/src/main/java/service/core/ClientInfo.java
-/Users/remcollier/Git/gitlab/ucd-cs-rem/distributed-systems/lifeco-basic/src/main/java/service/core/BrokerService.java
-/Users/remcollier/Git/gitlab/ucd-cs-rem/distributed-systems/lifeco-basic/src/main/java/service/registry/ServiceRegistry.java
+C:\Users\Administrator\Documents\Fourth Year\Sem 2\akka_Lab\initial_code\src\main\java\service\auldfellas\AFQService.java
+C:\Users\Administrator\Documents\Fourth Year\Sem 2\akka_Lab\initial_code\src\main\java\service\core\Constants.java
+C:\Users\Administrator\Documents\Fourth Year\Sem 2\akka_Lab\initial_code\src\main\java\service\registry\ServiceRegistry.java
+C:\Users\Administrator\Documents\Fourth Year\Sem 2\akka_Lab\initial_code\src\main\java\client\Main.java
+C:\Users\Administrator\Documents\Fourth Year\Sem 2\akka_Lab\initial_code\src\main\java\service\core\AbstractQuotationService.java
+C:\Users\Administrator\Documents\Fourth Year\Sem 2\akka_Lab\initial_code\src\main\java\service\core\QuotationService.java
+C:\Users\Administrator\Documents\Fourth Year\Sem 2\akka_Lab\initial_code\src\main\java\service\core\ClientInfo.java
+C:\Users\Administrator\Documents\Fourth Year\Sem 2\akka_Lab\initial_code\src\main\java\service\girlsallowed\GAQService.java
+C:\Users\Administrator\Documents\Fourth Year\Sem 2\akka_Lab\initial_code\src\main\java\service\broker\LocalBrokerService.java
+C:\Users\Administrator\Documents\Fourth Year\Sem 2\akka_Lab\initial_code\src\main\java\service\core\BrokerService.java
+C:\Users\Administrator\Documents\Fourth Year\Sem 2\akka_Lab\initial_code\src\main\java\service\registry\Service.java
+C:\Users\Administrator\Documents\Fourth Year\Sem 2\akka_Lab\initial_code\src\main\java\service\core\Quotation.java
+C:\Users\Administrator\Documents\Fourth Year\Sem 2\akka_Lab\initial_code\src\main\java\service\dodgygeezers\DGQService.java
